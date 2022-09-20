@@ -1,3 +1,3 @@
 # prueba
 
-# es una prueba apra revisar el pullrequest
+#es una prueba para revisar el pullrequest
